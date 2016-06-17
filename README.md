@@ -5,3 +5,4 @@ We will cover:
 -       Data handling and transforming numeric variables
 -       The K nearest neighbour regression approach
 -       Evaluating model performance and behaviour
+If you have questions or comments after the tutorial then please feel free to get in touch. Also if the data science route appeals to you then likewise get in touch but also keep an eye on our website (www.thedatalab.com) for info on events around Scotland.
